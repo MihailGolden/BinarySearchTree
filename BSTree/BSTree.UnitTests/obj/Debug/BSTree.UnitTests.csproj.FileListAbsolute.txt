@@ -1,9 +1,0 @@
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\bin\Debug\BSTree.UnitTests.dll
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\bin\Debug\BSTree.UnitTests.pdb
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\bin\Debug\nunit.framework.dll
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\bin\Debug\BSTree.pdb
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\bin\Debug\nunit.framework.xml
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\obj\Debug\BSTree.UnitTests.csprojResolveAssemblyReference.cache
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\obj\Debug\BSTree.UnitTests.dll
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\obj\Debug\BSTree.UnitTests.pdb
-C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree.UnitTests\bin\Debug\BSTree.dll
