@@ -1,0 +1,5 @@
+c:\users\владелец\documents\visual studio 2012\Projects\BSTree\BSTree\bin\Debug\BSTree.pdb
+c:\users\владелец\documents\visual studio 2012\Projects\BSTree\BSTree\obj\Debug\BSTree.pdb
+C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree\obj\Debug\BSTree.csprojResolveAssemblyReference.cache
+C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree\bin\Debug\BSTree.dll
+C:\Users\Владелец\Documents\Visual Studio 2012\Projects\BSTree\BSTree\obj\Debug\BSTree.dll
